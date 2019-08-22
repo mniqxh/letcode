@@ -1,4 +1,4 @@
-#### [链表（Linked List）](https://github.com/mniqxh/letcode/tree/master/Linked List)
+#### [链表（Linked List）](https://github.com/mniqxh/letcode/tree/master/Linked%20List)
 
 5个常见的链表操作
 
