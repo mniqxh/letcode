@@ -6,7 +6,7 @@ class ListNode:
 
 
 class Solution:
-    '''
+    """
     Given a linked list, remove the n-th node from the end of list and return its head.
     Example:
     Given linked list: 1->2->3->4->5, and n = 2.
@@ -24,7 +24,7 @@ class Solution:
     给定的 n 保证是有效的。
     进阶：
     你能尝试使用一趟扫描实现吗？
-    '''
+    """
 
     def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
         dummy = ListNode(0)
