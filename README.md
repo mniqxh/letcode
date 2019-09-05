@@ -8,3 +8,10 @@
 - 删除链表倒数第n个结点（[描述](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) [代码](https://github.com/mniqxh/letcode/blob/master/Linked%20List/lc19.py)）
 - 求链表的中间结点（[描述](https://leetcode-cn.com/problems/middle-of-the-linked-list/) [代码](https://github.com/mniqxh/letcode/blob/master/Linked%20List/lc876.py)）
 
+#### [栈（stack）](https://github.com/mniqxh/letcode/tree/master/stack)
+
+栈的应用
+
+- 栈在括号匹配中的应用（[描述](https://leetcode-cn.com/problems/valid-parentheses/) [代码](https://github.com/mniqxh/letcode/blob/master/stack/lc20.py)）
+
+
